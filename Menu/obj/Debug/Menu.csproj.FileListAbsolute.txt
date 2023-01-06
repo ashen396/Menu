@@ -1,0 +1,10 @@
+C:\Users\Ashen Renon\Documents\SharpDevelop Projects\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\Ashen Renon\Documents\SharpDevelop Projects\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\Ashen Renon\Documents\SharpDevelop Projects\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\Ashen Renon\Documents\SharpDevelop Projects\Menu\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\Ashen Renon\Documents\SharpDevelop Projects\Menu\Menu\obj\Debug\Menu.MainForm.resources
+C:\Users\Ashen Renon\Documents\SharpDevelop Projects\Menu\Menu\obj\Debug\Menu.User_Registration.resources
+C:\Users\Ashen Renon\Documents\SharpDevelop Projects\Menu\Menu\obj\Debug\Menu.View_Cart.resources
+C:\Users\Ashen Renon\Documents\SharpDevelop Projects\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\Ashen Renon\Documents\SharpDevelop Projects\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\Ashen Renon\Documents\SharpDevelop Projects\Menu\Menu\obj\Debug\Menu.pdb
